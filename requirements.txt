@@ -138,6 +138,7 @@ patsy==0.5.3
 pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1667297516076/work
 pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 Pillow==9.4.0
+pipreq==0.4
 pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil-resolve-name_1633981968097/work
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1672264874562/work
 plotly==5.12.0
