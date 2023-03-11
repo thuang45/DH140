@@ -5,3 +5,4 @@ networkx
 bokeh
 matplotlib
 pandas
+nlkt
