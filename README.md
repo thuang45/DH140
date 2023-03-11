@@ -2,6 +2,11 @@
 
 Coding & data science project space for DH140, Coding for Humanities.
 
+## Final Project
+For my final project, I will be analyzing the 7 *Harry Potter* books by J.K. Rowling. I am interested in seeing the differences across the 7 books, particularly analyzing the sentiment of the text and relationships of the characters.
+
+*Previous Ideas*
+
 ## Data and viz of interest
 [This article](https://www.pnas.org/doi/10.1073/pnas.1804840115) discusses how exposure to opposing viewpoints on social media can actually increase political polarization. This is interesting because we often believe the opposite, that seeing the same viewpoints creates an echo chamber.
 
