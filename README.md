@@ -5,15 +5,15 @@ Coding & data science project space for DH140, Coding for Humanities.
 ## Final Project
 For my final project, I will be analyzing the 7 *Harry Potter* books by J.K. Rowling. I am interested in seeing the differences across the 7 books, particularly analyzing the sentiment of the text and relationships of the characters.
 
-*Previous Ideas*
+## Previous Ideas
 
-## Data and viz of interest
+### Data and viz of interest
 [This article](https://www.pnas.org/doi/10.1073/pnas.1804840115) discusses how exposure to opposing viewpoints on social media can actually increase political polarization. This is interesting because we often believe the opposite, that seeing the same viewpoints creates an echo chamber.
 
 I would like to learn how to scrape data from Twitter's API to determine the times and frequencies of tweets. I like this image because it is visually interesting and allows us to easily learn something interesting.
 ![alt text](https://preview.redd.it/qzl3qex4c8ba1.png?width=960&crop=smart&auto=webp&s=7a4c34a5f0a19396b34a8381b5cda5c3f5db3a54 "Distribution of tweets from the Mexican President by hour of the day")
 
-## Ideas for data to investigate
+### Ideas for data to investigate
 * Gender and women's studies
 * Languages
 
@@ -25,7 +25,7 @@ I am most interested in web scraping and APIs because I have little experience i
 4. [Large Language Models in 2023: Worth the Hype?](https://www.datanami.com/2023/01/10/large-language-models-in-2023-worth-the-hype/)
 5. [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
-## Ideas from curated datasets & project lists
+### Ideas from curated datasets & project lists
 | Name | Description | Link |
 | :---: | :-----------: | :----: |
 | Mushroom | Physical characteristics of mushrooms and its classification as edible or poisonous; can be used to find a correlation between physical characteristics and its edibility | https://archive.ics.uci.edu/ml/datasets/Mushroom | 
