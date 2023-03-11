@@ -5,6 +5,9 @@ Coding & data science project space for DH140, Coding for Humanities.
 ## Final Project
 For my final project, I will be analyzing the 7 *Harry Potter* books by J.K. Rowling. I am interested in seeing the differences across the 7 books, particularly analyzing the sentiment of the text and relationships of the characters.
 
+Jupyter Notebook:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thuang45/DH140.git/HEAD?labpath=FinalProject.ipynb)
+
 ## Previous Ideas
 
 ### Data and viz of interest
